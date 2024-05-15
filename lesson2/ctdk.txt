@@ -1,0 +1,12 @@
+các cấu trúc diều khiển: 3 loại cấu trúc
+1.lựa chọn/rẽ nhánh
+   1.1: if->4 dạng
+      a) if đơn
+      b) if đầy đủ
+      c) if bậc thang
+      d) if lồng nhau
+
+    1.2: switch
+
+2.lặp
+3.lệnh nhảy
