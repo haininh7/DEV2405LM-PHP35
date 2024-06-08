@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+    list-style: none;
+}
+html{
+    font-size: 20px;
+}
+
+.w-25{
+    width: 23%;
+}
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.w-100{
+width: 100%;
+}
+.mb3{
+    margin-bottom: 1rem;
+}
+
+
+/* responsive */
+ 
+@media screen and (max-width: 500px) {
+    html{
+        font-size: 10px;
+    }
+}

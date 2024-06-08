@@ -1,0 +1,7 @@
+các hàm :
+include
+include_once
+require
+require_one
+$_COOKIE
+$_SESSION

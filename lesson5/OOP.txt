@@ -1,0 +1,6 @@
+OOP_ lập trình hướng đối tượng
+- Tính chất:
+kế thừa: inheritance
+Đa hình: polymophirms
+Trừu tượng:
+Đóng gói
