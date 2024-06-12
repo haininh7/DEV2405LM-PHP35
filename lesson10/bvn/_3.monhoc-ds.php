@@ -60,7 +60,7 @@
                     echo "<script> location.href='_3.monhoc-ds.php'; </script>";
             }catch (Exception $ex){
                 echo "<h3> Lỗi khi xóa " .$ex->getMesage();
-                echo "<script> alert('Lỗi khi xóa dữ liệu khoa'); </script>";
+                echo "<script> alert('Lỗi khi xóa dữ liệu môn học'); </script>";
             }
          }
 
