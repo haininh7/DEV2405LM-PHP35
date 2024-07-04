@@ -1,0 +1,15 @@
+-cài đặt ứng dụng laravel 8x đầu tiên
+- tìm hiểu về route
+--------------------
+1. install laravel 8x
+composer create-project --prefer-dist laravel/laravel:^8 laravel8x01
+
+
+-chạy ứng dụng 
+php artisan serve
+
+-mở browser: http://localhost:8000
+
+----------------------------
+2.tìm hiểu về route
+#route basic (routes\web.php)
